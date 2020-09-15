@@ -1,3 +1,3 @@
-# FaceID
+# VoiceID
 
-This is FaceID project for POSTECH EE Capstone Design Project I.
+This is VoiceID project for POSTECH EE Capstone Design Project I.
